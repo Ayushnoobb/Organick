@@ -167,8 +167,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [AyushISnoob](https://www.instagram.com/four_zero_four/) - Four_Zero_Four
-Your Name - [Mee Nal](https://www.instagram.com/xmintay) - Mintay
+[AyushISnoob](https://www.instagram.com/four_zero_four/) - Four_Zero_Four<br>
+[Mee Nal](https://www.instagram.com/xmintay) - Mintay
 
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
